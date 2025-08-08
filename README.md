@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Anna Lahmaniuk
+# 👋 Hi, I'm Anna Lakhmaniuk
 
 > Frontend Developer | Passionate about clean code, UI/UX, and problem solving.
 
